@@ -52,7 +52,7 @@ Connect to your robot's ROS master by entering the robot's IP address and port i
 - **Flutter** - Cross-platform mobile framework
 - **ROS** - Robot Operating System
 - **WebSocket** - Real-time communication with ROS
-- **RViz** - 3D visualization tool
+- **RViz** - 2D visualization tool
 
 ## License
 
